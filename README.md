@@ -6,6 +6,9 @@
 - 🚀 Passionate about writing clean code, solving algorithmic problems, and building logic.
 
 ### 🛠️ Tech & Tools
+![](https://shields.io)
+![](https://shields.io)
+
 - **Language:** Python 🐍
 - **Version Control:** Git & GitHub 💻
 - **Environment:** GitHub Desktop / VS Code 🛠️
