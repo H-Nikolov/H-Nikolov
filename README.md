@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm H. Nikolov 👋
 
-<!--
-**H-Nikolov/H-Nikolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 🏫 Student currently leveling up my software engineering skills.
+- 🎯 Deeply focused on mastering **Programming Fundamentals with Python** @SoftUni.
+- 🚀 Passionate about writing clean code, solving algorithmic problems, and building logic.
 
-Here are some ideas to get you started:
+### 🛠️ Tech & Tools
+- **Language:** Python 🐍
+- **Version Control:** Git & GitHub 💻
+- **Environment:** GitHub Desktop / VS Code 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My Goals
+- [ ] Complete the Python Fundamentals Course successfully.
+- [ ] Build a strong portfolio of solved problems and small projects.
+- [ ] Keep my GitHub contribution graph nice and green! 🟢
+
+---
+*“The only way to learn a new programming language is by writing programs in it.”*
